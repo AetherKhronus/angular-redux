@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+@import "https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap";
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    clear: both;
+}
+
+html, body { 
+    height: 100%; 
+}
+
+body { 
+    margin: 0; 
+}
+
+.top-margin2 {
+    margin-top: 2%;
+}
+
+.bot-margin2 {
+    margin-bottom: 2%;
+}
+
+.top-margin5 {
+    margin-top: 5%;
+}
+
+.bot-margin5 {
+    margin-bottom: 5%;
+}
+
+.top-margin10 {
+    margin-top: 10%;
+}
+
+.bot-margin10 {
+    margin-bottom: 10%;
+}
+
+
